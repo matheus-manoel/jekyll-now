@@ -14,7 +14,6 @@ Este capítulo propõe boas práticas para se projetar uma API REST de forma que
 * Os pontos de acesso sejam de fácil entendimento para outros desenvolvedores que eventualmente participem do projeto, seja construindo ou dando manutenção para a própria API, seja projetando uma aplicação cliente que conversa com essa API.
 * Seus componentes sejam padronizados apenas onde a padronização faça sentido. Boas práticas não são regras pétreas!
 
-#### 
 
 #### Representação de recursos e coleções na URL
 
@@ -37,13 +36,12 @@ Recursos e coleções são abstrações de dados presentes no servidor. As requi
 
 Manter os nomes de coleções no plural deixa a utilização da interface API muito mais intuitiva. Fazendo isso, não precisamos lidar com pluralizações estranhas de palavras em inglês. Além disso, as coleções são conjuntos homogêneos e não ordenados de recursos, portanto representá-las como o plural do recurso faz todo o sentido.
 
-#### 
 
 #### Lidando com Relações entre Recursos
 
 Caso uma coleção de recursos esteja diretamente relacionada a determinado recurso, como por exemplo uma lista de análises que cada produto tem e que não existe fora dessa relação, podemos representá-la de forma intuitiva aninhando seu nome ao path do ponto de acesso do recurso com que se relaciona.
 
-![](/assets/relation_reviews_product.png)
+![](../images/relation_reviews_product.png)
 
 | HTTP Verb | Localização \(Path\) | Resultado |
 | :--- | :--- | :--- |
