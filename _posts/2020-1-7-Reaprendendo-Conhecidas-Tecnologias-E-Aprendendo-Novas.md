@@ -44,3 +44,29 @@ Alguns comandos relembrados:
 - npm start
 
 Lembro que eu usava o yarn como substituto ao npm. Um colega de trabalho me apresentou e era muito mais rápido. Vou dar uma pesquisada melhor depois para retormar seu uso. Por enquanto, vai assim mesmo.
+
+
+## Update
+
+Terminei a parte 1 do curso. Foi importante para lembrar conceitos simples. Vou agora selecionar partes que considero importantes para lembrar com qualidade, para a partir daí por a mão na massa (talvez depois de dar uma estudada em GraphQL).
+
+Partes escolhidas:
+
+- Communicating with Props
+- Class-Based Components (2 primeiras vídeo-aulas)
+- State in React Components
+- Understanding Lifecycle Methods
+- Handling User Input with Forms and Events
+- Making API Requests with React
+- Let's Test Your React Mastey!
+
+Fiquei interessado também em algumas partes que falam sobre redux e react-redux. Lmebro que quando aprendi adorei. Mas uma coisa de cada vez. Talvez nem seja necessário para cumprir o desafio proposto.
+
+Falando nisso, nem falei qual era o desafio, né? Vou colar aqui embaixo:
+
+"Nosso desafio é simples! Queremos que você construa um sistema onde seja
+possível gerenciar questões de múltipla escolha, utilizando React e GraphQL
+(requisitos mínimos). Deve ser possível adicionar, editar e deletar perguntas e
+respostas, assim como visualizar na forma de listagem todas as perguntas já
+cadastradas no sistema. Não colocamos nenhuma restrição ou definição para o
+desenvolvimento de layout das telas, ficando a seu critério pensar na solução como um todo."
