@@ -29,12 +29,12 @@ Tenho uma versão muito desatualizada do node. Vou atualizá-la.
 
 Feito.
 
-## Update
+### Update
 
 Na hora de instalar o create-react-app, deu erro de permissão. Para reinstalar como adm, usei "sudo !!". Esse comando copia o último comando no lugar de !!. Fica a dica.
 
 
-## Update
+### Update
 
 Liguei o GoYo: plugin pro vim pra escrever sem distrações. Agora vai.
 
@@ -46,7 +46,7 @@ Alguns comandos relembrados:
 Lembro que eu usava o yarn como substituto ao npm. Um colega de trabalho me apresentou e era muito mais rápido. Vou dar uma pesquisada melhor depois para retormar seu uso. Por enquanto, vai assim mesmo.
 
 
-## Update
+### Update
 
 Terminei a parte 1 do curso. Foi importante para lembrar conceitos simples. Vou agora selecionar partes que considero importantes para lembrar com qualidade, para a partir daí por a mão na massa (talvez depois de dar uma estudada em GraphQL).
 
