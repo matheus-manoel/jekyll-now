@@ -32,3 +32,13 @@ Feito.
 ## Update
 
 Na hora de instalar o create-react-app, deu erro de permissão. Para reinstalar como adm, usei "sudo !!". Esse comando copia o último comando no lugar de !!. Fica a dica.
+
+
+## Update
+
+Liguei o GoYo: plugin pro vim pra escrever sem distrações. Agora vai.
+
+Alguns comandos relembrados:
+
+- npx create-react-app app
+- npm start
