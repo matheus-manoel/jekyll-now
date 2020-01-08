@@ -74,3 +74,7 @@ desenvolvimento de layout das telas, ficando a seu critério pensar na solução
 ### Update
 
 Fiz o suficiente de Communicating with Props pra lembrar. Próximo.
+
+### Update
+
+Class-Based Components também concluído. Bora relembrar state.
