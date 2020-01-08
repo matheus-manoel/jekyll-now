@@ -42,3 +42,5 @@ Alguns comandos relembrados:
 
 - npx create-react-app app
 - npm start
+
+Lembro que eu usava o yarn como substituto ao npm. Um colega de trabalho me apresentou e era muito mais rápido. Vou dar uma pesquisada melhor depois para retormar seu uso. Por enquanto, vai assim mesmo.
