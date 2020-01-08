@@ -28,3 +28,7 @@ Vou começar a assistir.
 Tenho uma versão muito desatualizada do node. Vou atualizá-la.
 
 Feito.
+
+## Update
+
+Na hora de instalar o create-react-app, deu erro de permissão. Para reinstalar como adm, usei "sudo !!". Esse comando copia o último comando no lugar de !!. Fica a dica.
