@@ -70,3 +70,7 @@ possível gerenciar questões de múltipla escolha, utilizando React e GraphQL
 respostas, assim como visualizar na forma de listagem todas as perguntas já
 cadastradas no sistema. Não colocamos nenhuma restrição ou definição para o
 desenvolvimento de layout das telas, ficando a seu critério pensar na solução como um todo."
+
+### Update
+
+Fiz o suficiente de Communicating with Props pra lembrar. Próximo.
