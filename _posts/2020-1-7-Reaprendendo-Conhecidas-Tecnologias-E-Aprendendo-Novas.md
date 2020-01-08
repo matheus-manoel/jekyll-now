@@ -3,7 +3,7 @@ layout: post
 title: Reaprendendo Conhecidas Tecnologias e Aprendendo Novas
 ---
 
-# 7.1.2020
+## 7.1.2020
 
 Ano novo, vida nova: é chegada a hora de retomar a busca por um estágio. Já fiz esse mesmo processo em 2017, quando consegui meu primeiro emprego. De lá pra cá muita coisa mudou, inclusive minha preparação para esse momento. Se naquela vez desenvolvi alguns projetos pessoais com a única função de me preparar para processos seletivos, dessa vez não fiz isso. Sem problemas: daquela vez eu não tinha 1 ano de experiência real no mercado de trabalho.
 
@@ -13,7 +13,7 @@ Outro ponto que me levou a aceitar o desafio são as tecnologias: React e GraphQ
 
 Hoje já tá um pouco tarde e eu vou usar pra tirar um descanso, assistir uns vídeos e responder outras empresas que entraram em contato. Amanhã é hora de começar de fato. Escreverei nesse post as atualizações dessa saga na medida em que avanço.
 
-# 8.1.2020
+## 8.1.2020
 
 Capuccino feito. Hora de começar.
 
@@ -22,3 +22,9 @@ Um amigo meu me passou suas credenciais pro udemy e recomendou um curso chamado 
 Dei uma olhada e o curso tem 47.5 horas. Será que vale a pena? Tirando as aulas marcadas com [Legacy], que totalizam 17 horas, o curso passa a ter mais ou menos 30 horas. Na velocidade 2, são 15 horas de conteúdo. Tô de férias e arrumar um estágio é minha responsabilidade mais importante no momento: vale a pena!
 
 Vou começar a assistir.
+
+### Update
+
+Tenho uma versão muito desatualizada do node. Vou atualizá-la.
+
+Feito.
