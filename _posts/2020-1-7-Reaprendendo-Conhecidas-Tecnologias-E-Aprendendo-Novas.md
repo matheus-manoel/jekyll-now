@@ -83,3 +83,7 @@ Class-Based Components também concluído. Bora relembrar state.
 ### Update
 
 Enquanto eu assistia uns vídeos, recebi um email de outra empresa com outro desafio. Vou me dedicar ao outro nos próximos momentos, documentando meu avanço num post como esse. Em algum momento volto pra cá. Até mais!
+
+### Update
+
+Só pra finalizar bem essa primeira parte antes de partir pro desafio da outra empresa, vou terminar de assistir os vídeos na viagem de ônibus que farei amanhã.
