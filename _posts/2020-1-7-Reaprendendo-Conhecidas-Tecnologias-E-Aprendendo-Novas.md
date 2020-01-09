@@ -87,3 +87,12 @@ Enquanto eu assistia uns vídeos, recebi um email de outra empresa com outro des
 ### Update
 
 Só pra finalizar bem essa primeira parte antes de partir pro desafio da outra empresa, vou terminar de assistir os vídeos na viagem de ônibus que farei amanhã.
+
+
+## 9.1.2020
+
+Acordei, comi uma batata recheada feita pela minha vó e peguei o busão pra minha cidade. Hoje tenho uma entrevista em uma startup interessante. No ônibus, seguem os estudos.
+
+Relembrar o ciclo de vida de um componente é fundamental. É a partir desse entendimento que é possível saber onde colocar cada funcionalidade de um componente, como sua interação com APIs por exemplo. Não lembro quantas vezes me ferrei quando estava aprendendo por conta disso. Segue os métodos do ciclo:
+
+constructor -> render -> (content is visible on screen) -> componentDidMount -> (sit and waits for updates) -> componentDidUpdate -> (sits and waits til component is no longer shown) -> componentWilUnmount.
