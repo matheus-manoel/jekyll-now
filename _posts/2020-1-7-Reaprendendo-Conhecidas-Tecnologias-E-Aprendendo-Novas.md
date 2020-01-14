@@ -127,3 +127,13 @@ Agora vou fazer um mockup de interface básico só pra servir de base.
 ### Update
 
 ![mockup](/images/mockup.png)
+
+## 14.1.2020
+
+Acabei descobrindo que agora o padrão é utilizar hooks e componentes funcionais. Interessante. Vou tentar, até porque a outra opção é fazer high order components pro Material UI funcionar e eu acho meio chato. Vamo vê no que dá, parece intuitivo.
+
+### Update
+
+Pausa pro almoço. Resultado parcial:
+
+![partial result](/images/partial_result_1)
