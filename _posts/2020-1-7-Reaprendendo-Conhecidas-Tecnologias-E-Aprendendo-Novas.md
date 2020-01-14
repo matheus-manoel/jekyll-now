@@ -137,3 +137,11 @@ Acabei descobrindo que agora o padrão é utilizar hooks e componentes funcionai
 Pausa pro almoço. Resultado parcial:
 
 ![partial result](/blog/images/partial_result_1.png)
+
+### Update
+
+Depois de mais um tempo trampando, ficou assim:
+
+![partial result 2](/blog/images/partial_result_2.png)
+
+Terminei a parte principal da interface. Faltaria só a de edição. Bom, é o que consegui com o tempo que tive. :) Mesmo entregando hoje vou continuar trampando nesse projeto para aprender GraphQL. Até mais!
