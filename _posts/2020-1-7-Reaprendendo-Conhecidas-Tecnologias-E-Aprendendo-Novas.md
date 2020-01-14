@@ -96,3 +96,33 @@ Acordei, comi uma batata recheada feita pela minha vó e peguei o busão pra min
 Relembrar o ciclo de vida de um componente é fundamental. É a partir desse entendimento que é possível saber onde colocar cada funcionalidade de um componente, como sua interação com APIs por exemplo. Não lembro quantas vezes me ferrei quando estava aprendendo por conta disso. Segue os métodos do ciclo:
 
 constructor -> render -> (content is visible on screen) -> componentDidMount -> (sit and waits for updates) -> componentDidUpdate -> (sits and waits til component is no longer shown) -> componentWilUnmount.
+
+
+## 13.1.2020
+
+Tô de volta pra terminar esse projeto. Vou ter que aumentar o ritmo pois a entrega é pra amanhã. Nos últimos 3 dias ocupei meu tempo livre com outro processo seletivo. Sem vídeo aulas, vou relembrar o restante pela prática. O ritmo das postagens vai diminuir também pra eu focar na codificação o máximo possível. Vamo que vamo.
+
+### Update
+
+(Repositório)[https://github.com/matheus-manoel/eis-a-questao] criado. Vou só procurar bons materias sobre graphql e dar uma estudada, já que eu nunca utilizei. Logo mais é mão na massa total.
+
+### Update
+
+Vou começar definindo o modelo das informações que guardaria no backend caso ele existisse, apenas como base para eu fazer a ui:
+
+```python
+{
+	'_id': int,
+	'question': str,
+	'option_a': str,
+	'option_b': str,
+	'option_c': str,
+	'option_d': str,
+    'answer': str
+}
+
+Agora vou fazer um mockup de interface básico só pra servir de base.
+
+### Update
+
+![mockup](/images/mockup.png)
