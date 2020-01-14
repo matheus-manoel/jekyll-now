@@ -136,4 +136,4 @@ Acabei descobrindo que agora o padrão é utilizar hooks e componentes funcionai
 
 Pausa pro almoço. Resultado parcial:
 
-![partial result](/blog/assets/partial_result_1.png)
+![partial result](/blog/images/partial_result_1.png)
