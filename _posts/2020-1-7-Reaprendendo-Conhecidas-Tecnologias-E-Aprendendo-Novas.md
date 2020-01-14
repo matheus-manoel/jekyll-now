@@ -126,7 +126,7 @@ Agora vou fazer um mockup de interface básico só pra servir de base.
 
 ### Update
 
-![mockup](/images/mockup.png)
+![mockup](/blog/images/mockup.png)
 
 ## 14.1.2020
 
@@ -136,4 +136,4 @@ Acabei descobrindo que agora o padrão é utilizar hooks e componentes funcionai
 
 Pausa pro almoço. Resultado parcial:
 
-![partial result](/assets/partial_result_1.png)
+![partial result](/blog/assets/partial_result_1.png)
