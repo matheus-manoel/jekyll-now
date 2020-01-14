@@ -120,6 +120,7 @@ Vou começar definindo o modelo das informações que guardaria no backend caso 
 	'option_d': str,
     'answer': str
 }
+```
 
 Agora vou fazer um mockup de interface básico só pra servir de base.
 
